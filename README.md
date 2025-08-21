@@ -166,4 +166,3 @@ intellidoc/
 ├── run_app.py               # Startskript
 └── README.md                # Diese Datei
 ```
-**IntelliDoc** - Transformieren Sie Ihre Dokumentenverwaltung mit der Kraft der künstlichen Intelligenz! 🚀
